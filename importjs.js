@@ -2,9 +2,6 @@ var jsFiles = []
 
 function importJS (file) {
   jsFiles.push(file + ".js")
-  if (file == 'vars') {
-    jsFiles.push("variables.js")
-  }
 }
 
 $(document).ready(function () {
