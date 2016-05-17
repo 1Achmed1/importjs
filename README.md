@@ -31,3 +31,13 @@ importjs("horizontal-nav");
 importjs("content-loader");
 importjs("variables");
 ```
+
+## Download ImportJS
+You can use either online always-updated code or download the code for production.
+
+To use it from the online source, add this script in your project:
+`//raw.githubusercontent.com/1Achmed1/importjs/master/importjs.js` <br/>
+\>\> As a side note, you can remove the `http[x]:` thing from URLs (as I have above), as it will automatically use the same HTTP protocol this way.
+
+For production releases, download the a source release: <br/>
+https://github.com/1Achmed1/importjs/releases
