@@ -1,6 +1,6 @@
 var jsFiles = []
 
-function importJS (file) {
+function importjs (file) {
   jsFiles.push(file + ".js")
 }
 
